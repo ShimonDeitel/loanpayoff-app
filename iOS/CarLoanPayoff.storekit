@@ -1,0 +1,42 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Car Loan Payoff Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Extra-payment payoff simulator with interest-saved calculator",
+              "displayName": "Car Loan Payoff Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.loanpayoff.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Car Loan Payoff Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
